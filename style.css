@@ -15,8 +15,8 @@ body{
     width: 100%;
     background-color: hsl(185, 75%, 39%);
     background-image: 
-        url('../profile-card-component-main/images/bg-pattern-top.svg'),
-        url('../profile-card-component-main/images/bg-pattern-bottom.svg');
+        url('/images/bg-pattern-top.svg'),
+        url('/images/bg-pattern-bottom.svg');
     background-position: top right, bottom left;
     background-size: 70%, 70%;
     background-repeat: no-repeat, no-repeat;
